@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Reinhold",
+    "userId": "user1",
+    "password": "1234",
+    "email": "rmarcu0@ted.com",
+    "phone": "382-126-6197",
+    "author": "유저"
+  },
+  {
+    "id": 2,
+    "name": "Koren",
+    "userId": "user2",
+    "password": "1234",
+    "email": "kspellicy1@apple.com",
+    "phone": "865-777-6648",
+    "author": "매니저"
+  },
+  {
+    "id": 3,
+    "name": "Reinaldo",
+    "userId": "user3",
+    "password": "1234",
+    "email": "rstoffler2@liveinternet.ru",
+    "phone": "131-284-8602",
+    "author": "유저"
+  },
+  {
+    "id": 4,
+    "name": "Michaeline",
+    "userId": "user4",
+    "password": "1234",
+    "email": "mspurrier3@umn.edu",
+    "phone": "827-326-1266",
+    "author": "유저"
+  },
+  {
+    "id": 5,
+    "name": "Leonanie",
+    "userId": "user5",
+    "password": "1234",
+    "email": "lponsford4@phoca.cz",
+    "phone": "600-742-5507",
+    "author": "유저"
+  },
+  {
+    "id": 6,
+    "name": "Richy",
+    "userId": "user6",
+    "password": "1234",
+    "email": "rudy5@canalblog.com",
+    "phone": "808-436-6893",
+    "author": "매니저"
+  },
+  {
+    "id": 7,
+    "name": "Mahalia",
+    "userId": "user7",
+    "password": "1234",
+    "email": "mbuckles6@vistaprint.com",
+    "phone": "841-515-1363",
+    "author": "매니저"
+  },
+  {
+    "id": 8,
+    "name": "Barbra",
+    "userId": "user8",
+    "password": "1234",
+    "email": "bclendennen7@so-net.ne.jp",
+    "phone": "963-271-5421",
+    "author": "유저"
+  },
+  {
+    "id": 9,
+    "name": "Jerrine",
+    "userId": "user9",
+    "password": "1234",
+    "email": "jathy8@nbcnews.com",
+    "phone": "361-856-2102",
+    "author": "매니저"
+  },
+  {
+    "id": 10,
+    "name": "Ali",
+    "userId": "user10",
+    "password": "1234",
+    "email": "abaulcombe9@accuweather.com",
+    "phone": "129-462-1286",
+    "author": "유저"
+  }
+]

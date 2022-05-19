@@ -1,0 +1,92 @@
+[
+  {
+    "id": 11,
+    "name": "Juliet",
+    "userId": "user11",
+    "password": "1234",
+    "email": "jpaladinoa@zimbio.com",
+    "phone": "785-618-0661",
+    "author": "유저"
+  },
+  {
+    "id": 12,
+    "name": "Franny",
+    "userId": "user12",
+    "password": "1234",
+    "email": "ffrenchumb@dailymail.co.uk",
+    "phone": "736-560-4425",
+    "author": "매니저"
+  },
+  {
+    "id": 13,
+    "name": "Elle",
+    "userId": "user13",
+    "password": "1234",
+    "email": "eobraddenc@census.gov",
+    "phone": "964-225-0421",
+    "author": "매니저"
+  },
+  {
+    "id": 14,
+    "name": "Henderson",
+    "userId": "user14",
+    "password": "1234",
+    "email": "hlowfilld@prlog.org",
+    "phone": "814-153-9112",
+    "author": "매니저"
+  },
+  {
+    "id": 15,
+    "name": "Carlina",
+    "userId": "user15",
+    "password": "1234",
+    "email": "cdemere@wordpress.org",
+    "phone": "102-939-6740",
+    "author": "유저"
+  },
+  {
+    "id": 16,
+    "name": "Ortensia",
+    "userId": "user16",
+    "password": "1234",
+    "email": "oquiggf@google.com.au",
+    "phone": "923-854-5712",
+    "author": "유저"
+  },
+  {
+    "id": 17,
+    "name": "Garret",
+    "userId": "user17",
+    "password": "1234",
+    "email": "ggrandhamg@skype.com",
+    "phone": "664-274-9658",
+    "author": "유저"
+  },
+  {
+    "id": 18,
+    "name": "Lise",
+    "userId": "user18",
+    "password": "1234",
+    "email": "lodonohueh@tmall.com",
+    "phone": "625-702-0498",
+    "author": "유저"
+  },
+  {
+    "id": 19,
+    "name": "Teodor",
+    "userId": "user19",
+    "password": "1234",
+    "email": "tcohani@domainmarket.com",
+    "phone": "880-742-8593",
+    "author": "매니저"
+  },
+  {
+    "id": 20,
+    "name": "Adriana",
+    "userId": "user20",
+    "password": "1234",
+    "email": "afleischmannj@house.gov",
+    "phone": "939-371-7769",
+    "author": "유저"
+  }
+]

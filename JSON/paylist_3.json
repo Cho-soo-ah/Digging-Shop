@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2022/03/14",
+    "purchase": "109,600",
+    "products": ["Trucn", "XL-7", "E-Class"],
+    "depositor": "Fairleigh"
+  },
+  {
+    "date": "2021/02/20",
+    "purchase": "94,000",
+    "products": ["Trucn", "XL-7", "E-Class"],
+    "depositor": "Doralin"
+  },
+  {
+    "date": "2021/01/11",
+    "purchase": "501,700",
+    "products": ["Trucn", "XL-7", "E-Class"],
+    "depositor": "Holly"
+  },
+  {
+    "date": "2021/05/06",
+    "purchase": "45,200",
+    "products": ["Trucn", "XL-7", "E-Class"],
+    "depositor": "Lari"
+  },
+  {
+    "date": "2021/01/01",
+    "purchase": "26,800",
+    "products": ["Trucn", "XL-7", "E-Class"],
+    "depositor": "Edeline"
+  },
+  {
+    "date": "2020/11/27",
+    "purchase": "62,800",
+    "products": ["Trucn", "XL-7", "E-Class"],
+    "depositor": "Ninnetta"
+  },
+  {
+    "date": "2021/08/07",
+    "purchase": "82,700",
+    "products": ["Trucn", "XL-7", "E-Class"],
+    "depositor": "Nadia"
+  },
+  {
+    "date": "2020/11/07",
+    "purchase": "19,200",
+    "products": ["Trucn", "XL-7", "E-Class"],
+    "depositor": "Hermy"
+  },
+  {
+    "date": "2021/09/13",
+    "purchase": "33,500",
+    "products": ["Trucn", "XL-7", "E-Class"],
+    "depositor": "My"
+  },
+  {
+    "date": "2021/05/05",
+    "purchase": "78,500",
+    "products": ["Trucn", "XL-7", "E-Class"],
+    "depositor": "Klara"
+  }
+]

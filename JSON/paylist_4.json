@@ -1,0 +1,27 @@
+[
+  {
+    "date": "2021/06/15",
+    "purchase": "59,000",
+    "products": ["Trucn", "XL-7", "E-Class"],
+    "depositor": "Zacharie"
+  },
+  {
+    "date": "2020/11/06",
+    "purchase": "31,200",
+    "products": ["Trucn", "XL-7", "E-Class"],
+    "depositor": "Rab"
+  },
+  {
+    "date": "2021/03/11",
+    "purchase": "25,400",
+    "products": ["Trucn", "XL-7", "E-Class"],
+    "depositor": "Randolf"
+  },
+  { "date": "2021/07/28", "purchase": "69,000", "depositor": "Alta" },
+  {
+    "date": "2021/06/25",
+    "purchase": "61,700",
+    "products": ["Trucn", "XL-7", "E-Class"],
+    "depositor": "Nick"
+  }
+]

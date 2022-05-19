@@ -1,0 +1,72 @@
+[
+  {
+    "Id": 1,
+    "title": "E-350 Super Duty Van",
+    "content": "Donec semper sapien a libero. Nam dui. Proin leo odio, porttitor id, consequat in, consequat ut, nulla.",
+    "price": "184,000",
+    "img": ""
+  },
+  {
+    "Id": 2,
+    "title": "Truck",
+    "content": "Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque. Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus. Phasellus in felis.",
+    "price": "11,900",
+    "img": ""
+  },
+  {
+    "Id": 3,
+    "title": "Canyon",
+    "content": "Cras in purus eu magna vulputate luctus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+    "price": "603,000",
+    "img": ""
+  },
+  {
+    "Id": 4,
+    "title": "XL-7",
+    "content": "In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus. Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi. Cras non velit nec nisi vulputate nonummy.",
+    "price": "209,000",
+    "img": ""
+  },
+  {
+    "Id": 5,
+    "title": "LS",
+    "content": "Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum. Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem. Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy.",
+    "price": "149,000",
+    "img": ""
+  },
+  {
+    "Id": 6,
+    "title": "Liberty",
+    "content": "Phasellus in felis. Donec semper sapien a libero. Nam dui. Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius. Integer ac leo.",
+    "price": "53,900",
+    "img": ""
+  },
+  {
+    "Id": 7,
+    "title": "E-Class",
+    "content": "In hac habitasse platea dictumst. Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat. Curabitur gravida nisi at nibh.",
+    "price": "289,000",
+    "img": ""
+  },
+  {
+    "Id": 8,
+    "title": "Discovery Series II",
+    "content": "Aliquam quis turpis eget elit sodales scelerisque.",
+    "price": "96,800",
+    "img": ""
+  },
+  {
+    "Id": 9,
+    "title": "Touareg 2",
+    "content": "Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam vel augue. Vestibulum rutrum rutrum neque.",
+    "price": "69,400",
+    "img": ""
+  },
+  {
+    "Id": 10,
+    "title": "Golf",
+    "content": "In hac habitasse platea dictumst. Etiam faucibus cursus urna.",
+    "price": "623,000",
+    "img": ""
+  }
+]
