@@ -1,5 +1,4 @@
 # Digging Shop
-
 ---
 
 <aside>
@@ -8,7 +7,6 @@
 </aside>
 
 ### 사용 기술
-
 ---
 
 - Mongo DB, express, multer, socket.io (로컬환경)
@@ -20,7 +18,6 @@
 - nivo
 
 ### 기능
-
 ---
 
 - 메인 페이지
@@ -55,7 +52,6 @@
     
 
 ### 화면구현
-
 ---
 
 - 대쉬보드
