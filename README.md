@@ -1,10 +1,7 @@
 # Digging Shop
 ---
-
-<aside>
 💡 쇼핑몰 관리자 페이지
 
-</aside>
 
 ### 사용 기술
 ---
