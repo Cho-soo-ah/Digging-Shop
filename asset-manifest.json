@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/digging-shop/static/css/main.9bdc169f.css",
-    "main.js": "/digging-shop/static/js/main.c09e9672.js",
+    "main.js": "/digging-shop/static/js/main.efec46e1.js",
     "static/js/787.0322d802.chunk.js": "/digging-shop/static/js/787.0322d802.chunk.js",
     "index.html": "/digging-shop/index.html",
     "main.9bdc169f.css.map": "/digging-shop/static/css/main.9bdc169f.css.map",
-    "main.c09e9672.js.map": "/digging-shop/static/js/main.c09e9672.js.map",
+    "main.efec46e1.js.map": "/digging-shop/static/js/main.efec46e1.js.map",
     "787.0322d802.chunk.js.map": "/digging-shop/static/js/787.0322d802.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9bdc169f.css",
-    "static/js/main.c09e9672.js"
+    "static/js/main.efec46e1.js"
   ]
 }
